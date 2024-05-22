@@ -2,7 +2,7 @@
 
 Meu nome é Isabelly Christine, mais vocês podem me chamar de Bellinha.
 
-- Estou estudando e fazendo projetos na Alura
+- Estou estudando e fazendo projetos na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo no JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos nas aulas;
 
